@@ -11,3 +11,6 @@ m;ldv';
 hello
 show this 
 
+hi
+to all
+this is 1.txt
